@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhijin Dong's Home Page"
+title                    : "Dong Chen's personal page"
 title_separator          : "-"
-name                     : &name "Zhijin Dong (董志金）"
+name                     : &name "Dong Chen"
 description              : &description "Undergraduate student of Peking University"
-url                      : https://Dongzhijin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://blossomin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Dongzhijin.github.io"
+repository               : "blossomin.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhijin Dong"
-  avatar           : "Dongzhijin.jpg"
+  name             : "Dong Chen"
+  avatar           : "chendong.jpg"
   bio              : "Undergraduate Student"
   location         : "Beijing, China"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Dongzhijin"
+  github           : "blossomin"
   google_plus      :
   keybase          :
   instagram        :
