@@ -11,7 +11,7 @@ title                    : "Zhijin Dong's Home Page"
 title_separator          : "-"
 name                     : &name "Zhijin Dong (董志金）"
 description              : &description "Undergraduate student of Peking University"
-url                      : https://blossomin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://Dongzhijin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Dongzhijin.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dong Chen"
+  name             : "Zhijin Dong"
   avatar           : "chendong.jpg"
   bio              : "Undergraduate Student"
   location         : "Beijing, China"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "blossomin"
+  github           : "Dongzhijin"
   google_plus      :
   keybase          :
   instagram        :
