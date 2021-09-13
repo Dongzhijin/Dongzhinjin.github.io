@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a junior student at [Computer Science](https://cs.pku.edu.cn/) Department in [Peking University](https://pku.edu.cn). I have worked on Database and Computer Architecture. Now I'm fascinated by Storage System, Computer Network, and Distributed Computing. Building system is enjoyable!
+I'm an undergraduate at [Department of Machine Intelligence](http://www.cis.pku.edu.cn) in [Peking University](https://pku.edu.cn). I have worked on Database and Computer Architecture. Now I'm fascinated by Storage System, Computer Network, and Distributed Computing. Building system is enjoyable!
 
 
 
