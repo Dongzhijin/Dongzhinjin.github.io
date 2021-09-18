@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Zhijin Dong's Personal Page"
 title_separator          : "-"
 name                     : &name "Zhijin Dong"
-description              : &description "Undergraduate student of Peking University"
+description              : &description "Undergraduate of Peking University"
 url                      : https://Dongzhijin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Dongzhijin.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Zhijin Dong 董志金"
   avatar           : "Dongzhijin.jpg"
-  bio              : "Undergraduate Student"
+  bio              : "Undergraduate"
   location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
