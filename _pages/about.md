@@ -8,30 +8,37 @@ redirect_from:
   - /about.html
 ---
 
-I'm an undergraduate at [Department of Machine Intelligence](http://www.cis.pku.edu.cn) in [Peking University](https://pku.edu.cn). I have worked on Database and Computer Architecture. Now I'm fascinated by Storage System, Computer Network, and Distributed Computing. Building system is enjoyable!
-
-
+I'm a third-year undergraduate at [Department of Machine Intelligence](http://www.cis.pku.edu.cn) in [Peking University](https://pku.edu.cn). I'm majoring in
+intelligent science and technology,and double majoring in economics.I am broadly interested in machine learning and computer version.
 
 News:
 ======
-·
-
+Now,I'm researching about Embodied AI which is new domain. If you are also interseted in this,please feel free to contact me.
 
 Publications:
 ======
-
-·
+Coming soon!!!
 
 
 Experience:
 ======
-·
+
+Fall 2021
 
 
 
-Teaching:
+Mar.2021 - Jun.2021
+
+
+
+
+
+
+
+
+Awards and Fellowships:
 ======
-·
+1.
 
 
 CV:
