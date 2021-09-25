@@ -29,7 +29,7 @@ Fall 2021
 
 Mar.2021 - Jun.2021  Course Project：Intelligent mechanical arm bucket landlord
 
-![](https://github.com/Dongzhijin/Dongzhijin.github.io/tree/master/images/Dongzhijin.jpg)
+![me](https://github.com/Dongzhijin/Dongzhijin.github.io/tree/master/images/Dongzhijin.jpg)
 
 
 
