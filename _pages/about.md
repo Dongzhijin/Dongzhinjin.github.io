@@ -39,7 +39,11 @@ Mar.2021 - Jun.2021  Course Project：Intelligent mechanical arm bucket landlord
 
 Awards and Fellowships:
 ======
-1.
+新鸿基地产郭氏基金北京大学奖学金 2019.6
+拔尖人才计划奖学金 2019.9
+北京大学新工科第十九届AcWing杯程序设计竞赛三等奖 2021.5
+北京大学优秀学习奖 2021.10
+
 
 
 CV:
